@@ -45,8 +45,6 @@ my personal profile
 
 
 
-<img align="left" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=omarmohamed&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=omarmohamed&style=for-the-badge">
 </a>
