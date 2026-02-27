@@ -15,11 +15,8 @@ My Personal Profile
 
 ⚡ I enjoy coding and improving every day.
 
-🌐 Check out my LinkedIn to see my projects.
-
 🌍 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/omar-mohamed-2aab6527b/" target="_blank"> <img src="https://img.shields.io/badge/-Omar%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> </p> <p align="left"> <a href="https://t.me/omarsamir" target="_blank"> <img src="https://img.shields.io/badge/-Omar%20Mohamed-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/> </a> </p>
-
 🛠 Tech Stack
 
  
@@ -42,6 +39,4 @@ My Personal Profile
 
  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarmohamed&show_icons=true&theme=radical" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohamed&layout=compact&theme=radical" height="180em"/> </p>
 <a href="https://komarev.com/ghpvc/?username=omarmohamed&style=for-the-badge"> <img src="https://komarev.com/ghpvc/?username=omarmohamed&style=for-the-badge"> </a>
